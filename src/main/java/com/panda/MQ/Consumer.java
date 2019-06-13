@@ -33,7 +33,7 @@ public class Consumer {
             }
         }
     }
-    public static void main(String[] args) throws JMSException, InterruptedException {
+    public static void main(String[] args) throws JMSException{
         //采用安全机制时   连接mq必须要账号密码
         //不采用默认的ActiveMQConnectionFactory.DEFAULT_PASSWORD
          new Consumer().recvice();

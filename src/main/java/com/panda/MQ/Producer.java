@@ -3,7 +3,6 @@ package com.panda.MQ;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;
-import java.util.concurrent.TimeUnit;
 
 public class Producer {
     public static void main(String[] args) throws JMSException, InterruptedException {
