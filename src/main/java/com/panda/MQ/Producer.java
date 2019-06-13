@@ -30,6 +30,7 @@ public class Producer {
         producer.send(queue,mapMessage1);
         producer.send(queue,mapMessage2);
         session.commit();
+        System.out.println("haha");
             //TimeUnit.SECONDS.sleep(1);
         if (connection!=null){
             connection.close();

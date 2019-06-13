@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f703de5-0a77-43d6-807b-0668db40ca18" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/panda/JUC/WaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/panda/JUC/WaitNotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/panda/MQ/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/panda/MQ/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/panda/MQ/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/panda/MQ/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/panda/MQ/demo.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7f703de5-0a77-43d6-807b-0668db40ca18" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -407,7 +402,7 @@
       <workItem from="1545991143405" duration="805000" />
       <workItem from="1551246882407" duration="1464000" />
       <workItem from="1551253627366" duration="22000" />
-      <workItem from="1560419972611" duration="255000" />
+      <workItem from="1560419972611" duration="501000" />
     </task>
     <task id="LOCAL-00001" summary="active MQ">
       <created>1545991246847</created>
@@ -427,7 +422,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47506000" />
+    <option name="totallyTimeSpent" value="47752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
