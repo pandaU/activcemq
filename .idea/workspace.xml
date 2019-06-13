@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f703de5-0a77-43d6-807b-0668db40ca18" name="Default" comment="" />
+    <list default="true" id="7f703de5-0a77-43d6-807b-0668db40ca18" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/panda/MQ/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="253">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,11 +41,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WaitNotify.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WaitNotify.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/panda/JUC/WaitNotify.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,10 +145,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/panda/UMEN/demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/panda/demo1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/panda/demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/panda/JUC/WaitNotify.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/panda/MQ/demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/panda/MQ/Consumer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/panda/MQ/Producer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panda/JUC/WaitNotify.java" />
       </list>
     </option>
   </component>
@@ -402,7 +408,7 @@
       <workItem from="1545991143405" duration="805000" />
       <workItem from="1551246882407" duration="1464000" />
       <workItem from="1551253627366" duration="22000" />
-      <workItem from="1560419972611" duration="501000" />
+      <workItem from="1560419972611" duration="886000" />
     </task>
     <task id="LOCAL-00001" summary="active MQ">
       <created>1545991246847</created>
@@ -422,7 +428,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47752000" />
+    <option name="totallyTimeSpent" value="48137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -750,13 +756,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/panda/MQ/demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/panda/JUC/WaitNotify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/panda/MQ/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1046">
@@ -769,10 +768,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/panda/MQ/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="253">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panda/JUC/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
           </folding>
         </state>
       </provider>
